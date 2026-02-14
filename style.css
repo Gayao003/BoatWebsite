@@ -144,7 +144,7 @@ button:focus-visible {
   align-items: center;
   padding: 50px 56px;
   color: #f7f3f0;
-  background: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1400&q=70") center/cover no-repeat;
+  background: url("img/boat1.jpg") center/cover no-repeat;
 }
 
 .hero::after {
@@ -241,11 +241,11 @@ button:focus-visible {
 }
 
 .boat-image-pontoon {
-  background-image: url("https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&q=70");
+  background-image: url("img/boat2.jpg");
 }
 
 .boat-image-fishing {
-  background-image: url("https://images.unsplash.com/photo-1493558103817-58b2924bce98?auto=format&fit=crop&w=1200&q=70");
+  background-image: url("img/boat3.jpg");
 }
 
 .boat-body {
